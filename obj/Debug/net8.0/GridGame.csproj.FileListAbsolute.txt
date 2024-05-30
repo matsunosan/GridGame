@@ -1,0 +1,14 @@
+C:\Users\glory hole\Documents\GridGame\bin\Debug\net8.0\GridGame.exe
+C:\Users\glory hole\Documents\GridGame\bin\Debug\net8.0\GridGame.deps.json
+C:\Users\glory hole\Documents\GridGame\bin\Debug\net8.0\GridGame.runtimeconfig.json
+C:\Users\glory hole\Documents\GridGame\bin\Debug\net8.0\GridGame.dll
+C:\Users\glory hole\Documents\GridGame\bin\Debug\net8.0\GridGame.pdb
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.AssemblyInfoInputs.cache
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.AssemblyInfo.cs
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.csproj.CoreCompileInputs.cache
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.dll
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\refint\GridGame.dll
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.pdb
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\GridGame.genruntimeconfig.cache
+C:\Users\glory hole\Documents\GridGame\obj\Debug\net8.0\ref\GridGame.dll
